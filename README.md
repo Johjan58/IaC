@@ -5,7 +5,7 @@ Fundamentals of Bicep: https://learn.microsoft.com/en-us/training/paths/fundamen
 
 
 
-Notes on defining the readme.
+<!-- Notes on defining the readme.
 For bullets, you can use either asterisks (*) or hyphens (-):
 * Item 1
 * Item 2
@@ -19,4 +19,4 @@ For tabs or indentation, you can use multiple spaces or a tab character:
 * Item 1
   * Subitem 1.1
   * Subitem 1.2
-* Item 2
+* Item 2 -->
